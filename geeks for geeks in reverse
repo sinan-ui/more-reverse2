@@ -1,0 +1,5 @@
+inputStr = "Geeks for Geeks"
+
+reversedChars = reversed(inputStr)
+
+print(''.join(reversedChars))
